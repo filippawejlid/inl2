@@ -30,14 +30,10 @@ body {
   background-color: #f4f4f41e;
 }
 
-/* menu */
-
 .header .menu {
   max-height: 0;
   transition: max-height 0.2s ease-out;
 }
-
-/* menu icon */
 
 .header .menu-icon {
   cursor: pointer;
